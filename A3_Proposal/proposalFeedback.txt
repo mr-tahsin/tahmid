@@ -1,0 +1,72 @@
+Overall feedback
+
+Thank you for submitting your dissertation proposal, and well done on your hard work here. 
+
+Feedback below is provided based on the themes set out in the marking criteria (handbook)
+
+Introduction
+
+The introduction broadly sets the scene, and begin to explain the issues and context being studied. However, as noted in draft feedback, the sources used are not specifically drawn from the UK security sector. E.g. the Nguyen source - explicitly connect the findings to the security industry, explaining why the conclusions are relevant to this context. Acknowledging this (or, ideally, finding relevant studies) would strengthen the introduction further. At present, this limits the mark available due to the lack of specificity.
+
+The brief also asks for an explanation of the motivation for the study in terms of the business or social benefits that can come from the study. These are hinted at, but could be indicated more explicitly. Please bear this in mind for the final submission.
+
+Research aim, and research questions
+
+The proposed research question is clearly articulated and focuses on both understanding the causes of turnover and identifying strategies for retention, which ensures both diagnostic and solution-oriented perspectives. The objectives are organised sequentially. 
+
+The research question and objectives could briefly justify why this study is essential for the UK security sector in particular. As noted above, the lack of specific sources discussing the context limit the ability of the proposal to show how the proposed research question stems from a justified context.
+
+Literature Review
+
+The review addresses a wide range of factors contributing to employee turnover, including working conditions, compensation, career progression, work-life balance, and organizational culture. The UK-specific context, such as post-pandemic challenges and rising living costs, ties to the research focus on the UK security industry. This aligns well with Objective 2 (exploring the role of specific factors in driving turnover).
+
+However, the primary weakness is that many of the cited sources (e.g., Golden, 2015; Cannizzaro & Mazzucco, 2020) are either general or not specific to the UK security industry. This undermines the alignment with Objective 1, which aims to identify causes of turnover specifically within the UK security sector.
+
+Please restrict the sources in the literature review to peer-reviewed literature found through the university library, as noted in the brief. Cliffnotes/student work/blogs are best avoided. The brief states “This section should provide you with the theoretical concepts and ideas that can be used to set and refine the research question(s) you want to address.. Enables you to discuss and evaluate the findings of previous (relevant) studies”. 
+
+While the literature review touches on various factors, some themes are not clearly linked back to the research question or objectives (e.g. career stagnation and organisational culture).
+
+It is absolutely crucial that the sources cited support the arguments being presented. As noted in some of the comments on the script, many of the more academically appropriate sources included here do not explicitly support the points expressed here. The best marks will also be awarded for analysing the sources (not just taking them at face value) – commenting on their strengths and weaknesses.
+
+Methodology
+
+The approach to research is outlined broadly, but discussion of the focus on secondary data becomes a little repetitive. There is limited emphasis on why this specific methodology is the best fit for answering the research questions. More explicit links between the methodology and the research questions would strengthen this section.
+
+The explanation of the search process lacks detail. For instance: What keywords will be used? Which academic databases or repositories will be searched? Are there inclusion/exclusion criteria (e.g., timeframes)? Including these details would improve transparency and clarity.
+
+The methodology mentions potential limitations, which shows a degree of insight. It also talks about data sets being used and analysed, but in the past tense. Please ensure consistency in the proposal and final submission (at this stage the research has not yet been carried out). This is particularly important because (as acknowledged below) the sources are from primary research papers and not from secondary sources suitable for this study.
+
+Thematic analysis is mentioned and described, but not explained. E.g. How will codes/themes be refined and reviewed? Please ensure this is clearer and more specific for the final submission.
+
+The trial analysis provides some preliminary insights, such as the identification of key turnover factors like work-life balance and career stagnation. Which elements of the research questions were addressed by the trial analysis? Making the link clear would strengthen this discussion. See comment below on analysis.
+
+Referencing and writing structure including appendices
+
+I am aware from conversations that you are adapting your choice of sources to ensure that they are appropriate for secondary research (having initially focused on journal articles). This proposal must be marked in accordance with the marking criteria and as such this is acknowledged. At present, this means that the approach taken does not meet the marking criteria, but I appreciate this will (hopefully) be resolved for the final submission.
+
+At present the appendices therefore do not include relevant secondary sources. 
+
+Indicative codebook is a good start, but bear in mind multiple codes usually sit within each theme.
+
+Writing style is generally clear and easy to follow. When citing sources in your text, make sure that you use brackets and names correctly. Ensure citations fit within the sentence. Names come outside the sentence when referred to as part of the sentence itself.
+
+Satisfactory use of APA 7th edition for some references. Writing is somewhat academic but lacks evidence of analysis in places. Appendices are incomplete for reasons noted above.
+ 
+
+Aron Truss (Internal assessor)
+24/01/2025, 19:56
+Introduction 
+In your work there is a satisfactory introduction that identifies the main issues to be addressed, establishes the context of the study, and explains the rationale. More academic sources should be used to support your assertions
+A satisfactory explanation of research aim, and research questions.  The research questions are rather ambitious and hard to achieve as you try to cover many different aspects, try to focus on one.  You should also mention here the approach you will  adopt  to execute your research.
+
+Literature review 
+There is adequate  literature review that demonstrates some areas of  research, however it fails to discuss theoretical concepts relevant to your research.  The literature review is approached from a broad perspective due to the missing succinct objectives.  Not all of the objectives are covered.eg. culture. 
+
+Methodology 
+The philosophical approach  should be clearly stated .  Overall strategy is missing.  The sources of secondary data are broadly stated.  Sampling technique is missing.  Approach to data analysis is mentioned, but not clearly explained.  The section provides limited justification for the methods used and  fails to discuss ethics.  Some discussion about reliability and validity of data is outlined.  This section should be better supported by research method sources.  
+
+Trial data analysis are rather vague.  Despite the fact that the   code book is present it is not clear how the text was coded as the sources are not enclosed, which suggest intuitive approach rather systematic approach to data analysis. 
+
+Referencing and writing structure including appendices
+
+Satisfactory use of APA 7th edition for some references. More academic sources should be used. Writing is somewhat academic but lacks structure. Appendices are incomplete eg. coded sources of secondary data are missing.   There is  a high Turnitin score 39%,  you need to use primary sources!!!
